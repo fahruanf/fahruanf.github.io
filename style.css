@@ -373,7 +373,8 @@ h3 {
 
 /* ========== About ========== */
 .about {
-    background-color:#865050;
+  background-color:#865050;
+  padding-top: 20px;
 }
 
 .about-content {
