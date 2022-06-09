@@ -436,6 +436,10 @@ h3 {
 }
 
 /* ========== Jadwal ========== */
+.jadwal {
+  padding-top: 20px;
+}
+
 table {
     border-collapse: collapse;
 }
@@ -454,9 +458,10 @@ th {
 }
 
 /* ========== Pendidikan ========== */
-#experience {
+.pendidikan {
   padding-top: 20px;
 }
+
 .education {
   flex: 0 0 50%;
   max-width: 50%;
@@ -517,18 +522,22 @@ th {
 }
 
 /* ========== Aktivitas ========== */
-#experience {
-    padding-top: 20px;
-  }
-  .experience {
-    flex: 0 0 50%;
-    max-width: 50%;
-  }
+.aktivitas {
+  padding-top: 20px;
+}
+
+.experience {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
 
 /* ========== Contact ========== */
-
 #contact {
   margin-top: 5rem;
+}
+
+.contact {
+  padding-top: 20px;
 }
 
 .contact-box {
